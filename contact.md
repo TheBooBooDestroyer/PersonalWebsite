@@ -7,5 +7,6 @@ permalink: /docs/contact/
 # Info
 Email
 - liamtnt57@gmail.com
+
 Linkedin
 -
