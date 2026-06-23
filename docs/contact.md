@@ -1,7 +1,7 @@
 ---
 title: Contact Information
 layout: page
-permalink: /docs/portfolio/
+permalink: /docs/contact/
 ---
 
 # Info
